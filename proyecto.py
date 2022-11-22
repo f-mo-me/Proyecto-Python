@@ -2,6 +2,8 @@
 # IE-0117 Programación Bajo Plataformas Abiertas
 # Francisco Moya Mena
 # Carnet A74449
+#Ricardo Hidalgo Campos
+#B63464
 
 if __name__ == '__main__':
 
